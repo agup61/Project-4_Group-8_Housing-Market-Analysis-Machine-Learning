@@ -17,3 +17,6 @@ By addressing these 3 key goals we have set for ourselves, we seek to supply val
 
 **Datasource:**
 https://www.kaggle.com/datasets/anthonypino/melbourne-housing-market
+
+**Supplementary Visuals:**
+https://public.tableau.com/app/profile/aung.kyaw.zan4968/viz/Project4_16914919043860/toosmal
